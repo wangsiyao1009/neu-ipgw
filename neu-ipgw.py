@@ -95,4 +95,4 @@ if __name__ == "__main__":
     if len(sys.argv) == 3:
         login(sys.argv[1], sys.argv[2])
     else:
-        print('Usage: python login.py username password')
+        print('Usage: python neu-ipgw.py username password')
